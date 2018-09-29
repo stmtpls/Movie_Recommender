@@ -14,7 +14,7 @@ All the steps of the process are thoroughly presented in the project's report.
 
 - Python 3
 - Jupiter Notebook
-- PySpark
+- Apache Spark
 
 
 ## Key take-aways
