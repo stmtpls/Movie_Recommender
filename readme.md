@@ -1,6 +1,6 @@
 # Movie Recommender using MapReduce
 
-## TLDR
+## TL;DR
 
 The program uses as input parsed data from online platforms, in the form of csv files and by providing a userId and movieId and returns a top 5 movie selection using the following criteria:
 
