@@ -23,7 +23,7 @@ All the steps of the process are thoroughly presented in the project's report.
 - Parallel computing can significantly improved performance and be scaled into large changing databases
 
 
-## Areas for improvement
+## Areas of improvement
 
 - Analysis of the past movie selections / evaluations of the current user creating personalized suggestions
 - Filtering and weighting of other users' reviews, focusing on users similar to the current user optimizing the results
